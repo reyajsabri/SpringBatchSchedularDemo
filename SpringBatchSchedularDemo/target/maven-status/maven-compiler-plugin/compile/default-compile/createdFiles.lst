@@ -1,0 +1,8 @@
+com\assignment\config\JobsConfig.class
+com\assignment\tasklets\TaskletStep1.class
+com\assignment\config\BatchConfiguration.class
+com\assignment\quartz\config\JobLauncherDetails.class
+com\assignment\tasklets\TaskletStep2.class
+com\assignment\Application.class
+com\assignment\quartz\config\BatchJobsDetailedConfiguration.class
+com\assignment\tasklets\TaskletStep3.class
